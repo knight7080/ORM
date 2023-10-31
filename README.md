@@ -44,8 +44,10 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
 
-![Alt text](image.png)
-![Alt text](image-1.png)
+![image](https://github.com/knight7080/ORM/assets/88542035/c129ddc2-7e69-4597-bc70-8fa5adb767e5)
+
+![image](https://github.com/knight7080/ORM/assets/88542035/251b497c-3acd-4c68-b006-c8275e11f4a6)
+
 
 
 ## RESULT
